@@ -14,7 +14,7 @@ h1 {
 .right_arm, 
 .left_leg, 
 .right_leg {
-	 background-color: #afed79;
+	 background-color: #79afed;
 }
 .android{
 	transition: all 1s ease-in-out;
